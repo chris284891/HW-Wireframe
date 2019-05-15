@@ -2,7 +2,6 @@
     box-sizing: border-box;
     text-align: center;
 }
-
 #header {
     font-size: 25px;
     padding: 20px;
@@ -10,22 +9,42 @@
     color: #333;
     background: blue;
 }
-
 #nav {
     padding; 20px;
     margin-bottom; 20px;
     color: #333;
     background: green;
 }
-
-#section {
+#article {
     background: red;
     width: 60%;
-    height: 300px
+    height: 100px;
+    margin: auto
 }
-
 #aside {
-    float: left;
     color: #333;
     background: yellow;
+    float: right;
+    width: 40%;
+    height: 118px
+}
+#section {
+    background: blue;
+    width: 59%;
+    float: left
+}
+#h1h2h3 {
+    background: green;
+    width: 80%;
+    margin: auto
+}
+#p {
+    background: purple;
+    margin: auto;
+    width: 80%
+}
+#footer {
+    background: greenyellow;
+    clear: both;
+    margin-top: inherit
 }
