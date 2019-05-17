@@ -19,32 +19,33 @@
     background: red;
     width: 60%;
     height: 100px;
-    margin: auto
+    margin: auto;
 }
 #aside {
     color: #333;
     background: yellow;
     float: right;
     width: 40%;
-    height: 118px
+    height: 118px;
 }
 #section {
     background: blue;
     width: 59%;
-    float: left
+    float: left;
 }
 #h1h2h3 {
     background: green;
     width: 80%;
-    margin: auto
+    margin: auto;
 }
 #p {
     background: purple;
     margin: auto;
-    width: 80%
+    width: 80%; 
 }
 #footer {
     background: greenyellow;
     clear: both;
-    margin-top: inherit
+    margin-top: 100px;
 }
+
