@@ -27,7 +27,8 @@
     width: 90%;
     height: 400px;
     margin: auto;
-    margin-top: 20px
+    margin-top: 20px;
+    padding-top: 20px;
 }
 #aside {
     color: #333;
@@ -46,7 +47,7 @@
     background: #ebebeb;
     color: #777;
     width: 80%;
-    margin: auto;
+    margin: auto; 
 }
 #p {
     background: #ebebeb;
