@@ -18,9 +18,12 @@
     font-size: 40px;
 }
 #nav {
-    padding; 20px;
-    margin-bottom; 20px;
+    display: inherit;
     background: #ebebeb;
+    margin-bottom: 20px;
+    height: 40px;
+    line-height: 36px;
+    padding-left: 28px;
 }
 #article {
     background: #777;
@@ -35,7 +38,7 @@
     color: #333;
     background: #ebebeb;
     float: right;
-    width: 47%;
+    width: 46%;
     height: 459px
 }
 #section {
