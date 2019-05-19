@@ -15,6 +15,7 @@
     margin-bottom: 20px;
     color: #333;
     background: #ebebeb;
+    font-size: 40px;
 }
 #nav {
     padding; 20px;
@@ -35,19 +36,20 @@
     background: #ebebeb;
     float: right;
     width: 47%;
-    height: 449px
+    height: 459px
 }
 #section {
     background: #ebebeb;
     width: 495px;
     float: left;
-    height: 449px;
+    height: 459px;
 }
-#h1h2h3 {
+#arthead {
     background: #ebebeb;
     color: #777;
     width: 80%;
-    margin: auto; 
+    margin: auto;
+    font-size: 25px; 
 }
 #p {
     background: #ebebeb;
@@ -61,7 +63,7 @@
 #footer {
     background: #ebebeb;
     clear: both;
-    margin-top: 425px;
+    margin-top: 435px;
     height: 50px;
     line-height: 2.6;
 }
