@@ -72,7 +72,8 @@
     line-height: 2.6;
 }
 #img {
-    object-fit: contain
+    object-fit: contain;
     /* I tried adjusting height and width */
+    margin-top: 200px
 }
 
