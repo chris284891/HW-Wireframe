@@ -1,5 +1,5 @@
 # Link
-https://chris284891.github.io/Wireframe/
+https://swedishkinda.github.io/Wireframe/
 
 # Wireframe
 This is a basic website design.
